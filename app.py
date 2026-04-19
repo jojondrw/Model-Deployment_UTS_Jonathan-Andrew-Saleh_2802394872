@@ -15,8 +15,6 @@ def main():
     st.set_page_config(page_title="Student Placement and Salary Predictor", layout="wide")
     
     st.title('Student Placement and Salary Prediction')
-    st.write("Sistem prediksi otomatis dengan parameter lengkap sesuai dataset.")
-    st.markdown("---")
 
     st.sidebar.header("Input Data Lengkap")
     
